@@ -7,7 +7,7 @@ List of Machine Learning Projects implemented
     * A correlation matrix was created to explore the relationships between parameters.
     * Mean squared error was used as a performance metric.
     * Performance of this model was compared with an ensemble method called RandomForestRegressor.
-    * Jupyter Notebook: https://nbviewer.jupyter.org/github/codingminions/Machine-Learning/blob/main/Board_Game_Prediction/Board_Game_Review.ipynb
+    * Jupyter Notebook: https://github.com/codingminions/ML_Projects/blob/main/Board_Game_Prediction/Board_Game_Review.ipynb
 
 2. Breast Cancer Detection:
     * This breast cancer database was obtained from the University of Wisconsin Hospitals, Madison from Dr. William H. Wolberg. [Citation: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/]
@@ -15,14 +15,14 @@ List of Machine Learning Projects implemented
     * Cross Val score was used to estimate the skill of these machine learning model on unseen data. 
     * Precision and Recall were used as performance metric.
     * Performance of these two models was compared with Support Vector Classifier(SVC).
-    * Jupyter Notebook: https://nbviewer.jupyter.org/github/codingminions/Machine-Learning/blob/main/Breast_Cancer_Prediction/Breast%20Cancer.ipynb
+    * Jupyter Notebook: https://github.com/codingminions/ML_Projects/blob/main/Breast_Cancer_Prediction/Breast%20Cancer.ipynb
 
 3. Credit Card Fraud Detection:
     * Using a dataset of of nearly 28,500 credit card transactions and multiple unsupervised anomaly detection algorithms, transactions with a high probability of being credit card fraud was identified.
     * Two machine learning algorithms were deployed: Local Outlier Factor (LOF) and Isolation Forest Algorithm.
     * Parameter histograms and correlation matrices were used to gain a better understanding of the underlying distribution of data in our data set.
     * We used outlier algorithms since the number of fraud cases were way less than valid transactions.
-    * Jupyter Notebook: https://nbviewer.jupyter.org/github/codingminions/Machine-Learning/blob/main/Credit_Card_Fraud_Detection/Credit%20Card%20Fraud%20Detection.ipynb
+    * Jupyter Notebook: https://github.com/codingminions/ML_Projects/blob/main/Credit_Card_Fraud_Detection/Credit%20Card%20Fraud%20Detection.ipynb
 
 4. K Means Clustering for Imagery Analysis:
     * K-means algorithm was used to perform image classification.
@@ -31,13 +31,13 @@ List of Machine Learning Projects implemented
     * Mini-batch implementation of k-means clustering was implemented on these 1D values. 
     * Accuracy was used as the Performance metric.
     * The model was tested against other number of clusters and inertia,Homogeneity of these clusters were calculated.
-    * Jupyter Notebook: 
+    * Jupyter Notebook: https://github.com/codingminions/ML_Projects/blob/main/Image_Preprocessing/KMeans%20Clustering%20for%20Imagery%20Analysis.ipynb
 
 5. NLTK: 
     * Various aspects of NLP was identified and deployed on text corpus.
     * Concepts Covered: Tokenize , Stemming , Stop words with NLTK, POS Tagging, Chunking, Named Entity Recognition and Text Classification.
     * SklearnClassifier was used to perform text classification on movie reviews.
-    * Jupyter Notebook: 
+    * Jupyter Notebook: https://github.com/codingminions/ML_Projects/blob/main/NLTK/NLTK.ipynb
 
 6. Principle Component Analysis (PCA):
     * Mapping high dimensional data to a lower dimensional space is a necessary step for projects that utilize data compression or data visualizations.
@@ -45,7 +45,7 @@ List of Machine Learning Projects implemented
     * Elbow method was used to determine the accurate number of clusters used in the process.
     * PCA was used to reduce the number of features in the dataset to 2.
     * Homogeneity and Completeness of Reduced and Non-Reduced data was compared.
-    * Jupyter Notebook: 
+    * Jupyter Notebook: https://github.com/codingminions/ML_Projects/blob/main/PCA_Reduction/PCA%20Compression%20and%20Visualization.ipynb
 
 7. Stock Market Prediction: 
     * Dictionary of Companies and their stock market abbreviations was created.
@@ -53,4 +53,4 @@ List of Machine Learning Projects implemented
     * Daily Stock Movement was calculated.
     * Data was normalised and KMeans Clustering algorithm was implemented.
     * PCA was used to reduce the number of features.
-    * Jupyter Notebook:  
+    * Jupyter Notebook: https://github.com/codingminions/ML_Projects/blob/main/Stock_Market_Prediction/Stock%20Market.ipynb
