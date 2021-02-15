@@ -37,7 +37,7 @@ List of Machine Learning Projects implemented
     * Various aspects of NLP was identified and deployed on text corpus.
     * Concepts Covered: Tokenize , Stemming , Stop words with NLTK, POS Tagging, Chunking, Named Entity Recognition and Text Classification.
     * SklearnClassifier was used to perform text classification on movie reviews.
-    * Jupyter Notebook: https://github.com/codingminions/ML_Projects/blob/main/NLTK/NLTK.ipynb
+    * Jupyter Notebook: https://github.com/codingminions/ML_Projects/blob/main/NLTK/Natural%20Language%20Processing.ipynb
 
 6. Principle Component Analysis (PCA):
     * Mapping high dimensional data to a lower dimensional space is a necessary step for projects that utilize data compression or data visualizations.
