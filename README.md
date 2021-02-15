@@ -31,13 +31,13 @@ List of Machine Learning Projects implemented
     * Mini-batch implementation of k-means clustering was implemented on these 1D values. 
     * Accuracy was used as the Performance metric.
     * The model was tested against other number of clusters and inertia,Homogeneity of these clusters were calculated.
-    * Jupyter Notebook: https://github.com/codingminions/ML_Projects/blob/main/Image_Preprocessing/KMeans%20Clustering%20for%20Imagery%20Analysis.ipynb
+    * Jupyter Notebook: https://nbviewer.jupyter.org/github/codingminions/ML_Projects/blob/main/Image_Preprocessing/KMeans_Clustering_for_Imagery_Analysis.ipynb
 
 5. NLTK: 
     * Various aspects of NLP was identified and deployed on text corpus.
     * Concepts Covered: Tokenize , Stemming , Stop words with NLTK, POS Tagging, Chunking, Named Entity Recognition and Text Classification.
     * SklearnClassifier was used to perform text classification on movie reviews.
-    * Jupyter Notebook: https://github.com/codingminions/ML_Projects/blob/main/NLTK/Natural%20Language%20Processing.ipynb
+    * Jupyter Notebook: https://nbviewer.jupyter.org/github/codingminions/ML_Projects/blob/main/NLTK/Natural_Language_Processing.ipynb
 
 6. Principle Component Analysis (PCA):
     * Mapping high dimensional data to a lower dimensional space is a necessary step for projects that utilize data compression or data visualizations.
@@ -45,7 +45,7 @@ List of Machine Learning Projects implemented
     * Elbow method was used to determine the accurate number of clusters used in the process.
     * PCA was used to reduce the number of features in the dataset to 2.
     * Homogeneity and Completeness of Reduced and Non-Reduced data was compared.
-    * Jupyter Notebook: https://github.com/codingminions/ML_Projects/blob/main/PCA_Reduction/PCA%20Compression%20and%20Visualization.ipynb
+    * Jupyter Notebook: https://nbviewer.jupyter.org/github/codingminions/ML_Projects/blob/main/PCA_Reduction/PCA.ipynb
 
 7. Stock Market Prediction: 
     * Dictionary of Companies and their stock market abbreviations was created.
@@ -53,4 +53,4 @@ List of Machine Learning Projects implemented
     * Daily Stock Movement was calculated.
     * Data was normalised and KMeans Clustering algorithm was implemented.
     * PCA was used to reduce the number of features.
-    * Jupyter Notebook: https://github.com/codingminions/ML_Projects/blob/main/Stock_Market_Prediction/Stock%20Market.ipynb
+    * Jupyter Notebook: https://nbviewer.jupyter.org/github/codingminions/ML_Projects/blob/main/Stock_Market_Prediction/Stock_Market_Clustering.ipynb
